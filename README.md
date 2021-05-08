@@ -1,6 +1,6 @@
-# Telephage 
+# Telehalo
 
-### From proteins of interest to phage phylogeny in single line!
+### From proteins of interest to Halobacteria phylogeny in single line!
 
 
             ,@##          %..      %#/            
@@ -21,7 +21,7 @@
                        (%%%                       
                         (%                                                                          
                  
-           Binomica Labs - TelePhage         
+           Binomica Labs - TeleHalo        
               
            Small Thoughtful Science             
 
